@@ -1,4 +1,4 @@
-package com.travoo.travoo_travel_customer
+package com.travoo.travoo
 
 import io.flutter.embedding.android.FlutterActivity
 
